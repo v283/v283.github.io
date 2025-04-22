@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.valentineos.avocadomobile",
+      "sha256_cert_fingerprints": [
+        "D8:1A:87:6C:20:E0:59:95:E2:CB:0D:C9:D2:BB:7B:36:AC:B5:B3:C5:D7:77:0E:52:99:1B:88:98:40:57:00:61"
+      ]
+    }
+  }
+]
